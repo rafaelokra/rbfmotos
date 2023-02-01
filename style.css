@@ -36,7 +36,7 @@
   
   #container {
     width: 100%;
-    max-width: 588px;
+    max-width: 300px;
     margin: 56px auto 0px;
     padding: 0 24px;
   }
@@ -168,7 +168,7 @@
   }
   
   /* media queries */
-  @media (min-width: 700px) {
+  @media (min-width: 300px) {
     :root {
       --bg-url: url(2f225924c083598fed27f7cee08cc340.jpg);
     }
